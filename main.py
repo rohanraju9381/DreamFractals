@@ -69,7 +69,7 @@ def render():
     data,
     extent=[xmin, xmax, ymin, ymax],
     origin="lower",
-    cmap="magma",
+    cmap="inferno",
     interpolation="bilinear"
     )
 
